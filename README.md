@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python| Django | Django Rest Framework
 - 📫 How to reach me: https://www.linkedin.com/in/filipevaladares/
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuting1108)](https://github.com/xuting1108/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuting1108&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuting1108&layout=compact)](https://github.com/xuting1108/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuting1108&count_private=true&show_icons=true&show_icons=true&theme=radical)](https://github.com/xuting1108/github-readme-stats)
+
