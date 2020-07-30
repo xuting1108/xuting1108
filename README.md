@@ -6,3 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/filipevaladares/
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuting1108&layout=compact&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuting1108&count_private=true&show_icons=true&show_icons=true&theme=radical)
