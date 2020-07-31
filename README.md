@@ -8,3 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuting1108&layout=compact&theme=radical)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuting1108&count_private=true&show_icons=true&show_icons=true&theme=radical)
+<img align="center" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"/>
